@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME: ศิภูริช วิเศษศรี
+# STUDENT ID:  670610783
